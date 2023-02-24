@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fifteen-puzzle/static/css/main.526a1623.css",
+    "main.js": "/fifteen-puzzle/static/js/main.346c2a62.js",
+    "static/js/787.ef6c5abb.chunk.js": "/fifteen-puzzle/static/js/787.ef6c5abb.chunk.js",
+    "static/media/backgroundWood.png": "/fifteen-puzzle/static/media/backgroundWood.aa3e994661c957f59543.png",
+    "index.html": "/fifteen-puzzle/index.html",
+    "main.526a1623.css.map": "/fifteen-puzzle/static/css/main.526a1623.css.map",
+    "main.346c2a62.js.map": "/fifteen-puzzle/static/js/main.346c2a62.js.map",
+    "787.ef6c5abb.chunk.js.map": "/fifteen-puzzle/static/js/787.ef6c5abb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.526a1623.css",
+    "static/js/main.346c2a62.js"
+  ]
+}
