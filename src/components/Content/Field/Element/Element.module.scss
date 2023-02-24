@@ -1,0 +1,37 @@
+.elementWrapper {
+  width: 50px;
+  height: 50px;
+
+  &:not(:first-child) {
+    margin-left: 1px;
+  }
+}
+
+.element {
+  background-color: #e8e6e6;
+  box-shadow: 1px 1px 1px 1px rgb(110, 109, 109);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  border: black solid 1px;
+  border-radius: 5px;
+
+  cursor: pointer;
+
+  .circle {
+    width: 40px;
+    height: 40px;
+    border: black solid 1px;
+    border-radius: 50%;
+    box-shadow: inset .7px .7px .7px .7px rgb(110, 109, 109);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 25px;
+    font-weight: bold;
+  }
+}

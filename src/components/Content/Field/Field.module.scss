@@ -1,0 +1,16 @@
+
+.fieldWrapper {
+  padding: 2px;
+  border: #734222 solid 10px;
+  display: inline-block;
+
+  background-image: url("../../../assets/images/backgroundWood.png");
+
+  .row {
+   display: flex;
+
+    &:not(:first-child) {
+      margin-top: 1px;
+    }
+  }
+}

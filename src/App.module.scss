@@ -1,0 +1,17 @@
+.appWrapper {
+  height: 100vh;
+  background-color: darkgreen;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  h1 {
+    margin: 10px 0 15px;
+  }
+
+  .clue {
+    margin-top: 10px;
+    font-style: italic;
+  }
+}
